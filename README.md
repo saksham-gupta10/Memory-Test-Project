@@ -1,4 +1,4 @@
-# Memory_Test_Project
+# Input Buffer in Memory (Scan Chains)
 ### Course: Memory Design and Test
 ### Advisors: Dr Anuj Grover, Mr Belal Iqbal
 ### Institute: IIITD
