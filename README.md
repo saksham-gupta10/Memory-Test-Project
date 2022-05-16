@@ -1,4 +1,4 @@
-# Input Buffer in Memory (Scan Chains)
+# Input Buffer for SRAM (Scan Chains)
 ### Course: Memory Design and Test
 ### Advisors: Dr Anuj Grover, Mr Belal Iqbal
 ### Institute: IIITD
